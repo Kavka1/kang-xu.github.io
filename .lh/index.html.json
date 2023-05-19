@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 38,
+            "activePatchIndex": 39,
             "patches": [
                 {
                     "date": 1684465057174,
@@ -160,6 +160,10 @@
                 {
                     "date": 1684470461839,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -107,9 +107,9 @@\n             </div>\n         </div>\n \n         <div class=\"publication row clearfix\">\n-            <div class=\"row-media\" style=\"background-image: url(files/DiR.png);\"></div>\n+            <div class=\"row-media\" style=\"background-image: url(files/EAS.png);\"></div>\n             <div class=\"row-text\">\n                 <a class=\"publication-title bold\" href=\"https://link.springer.com/chapter/10.1007/978-3-031-30111-7_49\">\n                     Evolutionary Action Selection for Gradient-Based Policy Learning</a><br/>\n                     Yan Ma, <span class=\"bold\">Kang Xu</span>, Wei Li+<br/>\n"
+                },
+                {
+                    "date": 1684470929994,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -116,7 +116,6 @@\n                 <span class=\"italic\">International Conference on Neural Information Processing (<a href=\"https://www.apnns.org/ICONIP2022/\">ICONIP</a>)</span>, 2022 (<span class=\"bold\" style=\"color: #f09228;\">Oral</span>)</span><br/>\n                 <a class=\"btn btn-red\" href=\"https://mantle2048.github.io/projects/EAS/EAS.pdf\">paper</a>\n             </div>\n         </div>\n-\n     </div>\n </div>\n"
                 }
             ],
             "date": 1684465057174,
