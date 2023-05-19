@@ -1,0 +1,18 @@
+{
+    "sourceFile": "style.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1684465033962,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1684465033962,
+            "name": "Commit-0",
+            "content": "html {-webkit-text-size-adjust: 100%; -moz-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}\nbody {background-color: #fdfdfd; color: #2c3c4c; margin: 0; font-size: 13px;}\nh1 {margin-bottom: 32px; font-size: 2.6em;}\nh2 {margin-top: 48px;}\nh1, h2 {color: #234;}\nh3, h4, h5 {color: #345;}\nh1, h2, h3, h4, h5, a, p, span, body, div {font-weight: normal; font-family: 'Lato', Verdana, Helvetica, sans-serif;}\n.header {background: linear-gradient(to bottom, #f5f5fd 10%, #f1f1f9 90%); width: 100%; padding-top: 16px; padding-bottom: 32px;}\n.header-profile-picture, .header-text {display: inline-block;}\n.header-name h1 {margin: 0;}\n.header-subtitle {margin-bottom: 12px;}\n.header-profile-picture {width: 100px; height: 100px; margin-right: 12px; border-radius: 50%; background-image: url(files/lichter.jpeg); background-position: center; background-size: contain;}\n.content {max-width: 748px; padding-left: 16px; padding-right: 16px; margin: auto; margin-top: 48px;}\n.hr {width: 100%; height: 1px; margin: 48px 0; background-color: #d6dbdf;}\na {color: #2471a3; text-decoration: none;}\na:focus, a:hover {color: #f09228;}\np {line-height: 1.5em;}\n.nobreak {white-space: nowrap;}\n.noselect {-webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;}\n.bold {font-weight: bold;}\n.italic {font-style: italic;}\n.bulletpoints {line-height: 1.5em;}\n.row {box-sizing: border-box;}\n.row-media {display: block; float: left; width: 160px; height: 90px; background-position: center; background-size: contain; background-repeat: no-repeat;}\n.row-text {display: block; float: left; margin-left: 12px; line-height: 1.5em; max-width: 566px;}\n.row-text span {line-height: inherit;}\n.clearfix {content: \"\"; clear: both; display: table;}\n.publication {margin-bottom: 32px; padding-left: 8px;}\n.publication.highlight {background-color: #fff8df; width: 100%; padding-top: 8px; padding-bottom: 8px; border-radius: 4px;}\n.press {width: 100px; height: 80px; border: 1px solid #def; margin-right: 12px; background-size: cover;}  \n.img-contain {background-size: contain !important;}\n.footer {background-color: #345; width: 100%}\n.footer-content {color: #fff; font-size: 10px; padding: 6px 0; max-width: 748px; margin: auto;}\n.footer-content a {color: #fff; text-decoration: underline;}\n.footer-content a:hover {color: #f09228 !important;}\n.stars {font-size: 10px; display: inline-block; margin-left: 6px; color: #666;}\n\n@media only screen and (max-width: 1150px) {\n    .header-profile-picture, .header-text {display: block; margin: auto; text-align: center;}\n    .header-profile-picture {margin-bottom: 12px; width: 140px; height: 140px;}\n    body {font-size: 18px;}\n    a.btn {font-size: 14px; padding: 2px 6px;}\n}\n\n@media only screen and (max-width: 1000px) {\n    .publication {margin-bottom: 46px;}\n    .publication .row-media {width: 260px; height: 130px; margin: auto; margin-bottom: 12px; display: block;}\n    .publication .row-text {display: block; width: 100%; margin-left: 0;}\n    .press {display: block;}\n}"
+        }
+    ]
+}
